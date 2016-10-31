@@ -3,76 +3,64 @@
   "nickname":"王肖梦",
   "firstName":"王肖梦",
   "lastName":"",
-  "slogan":"追求专业与卓越前端开发者",
+  "slogan":"发掘不平凡的自己",
   "location":"Zhengzhou·China",
   "qq":{
     "number":"905606205"
   },
-  "website":"http://Ianytime.github.io/myagresume",
+  "website":"http://Ianytime.github.io",
   "email":"905606205@qq.com",
   "intro":[
-    "<span class='text-light'>91</span>年、<span class='text-light'>河南</span>·南阳人。做事务实踏实。喜欢简单的东西。习惯听歌写代码。",
-    "喜欢设计，对用户体验有追求。喜欢折腾，没事的时候喜欢做点小东西。",
-    "善于学习。从毕业时候连基本html都不会写，到现在能独自一人完成一个网站的前端。"
+    "<span class='text-light'></span><span class='text-light'></span>做事务实踏实。喜欢简单的东西。习惯听歌写代码。",
+    "思维逻辑清晰，学习能力强，追求完美，能吃苦耐劳",
+    "性格开朗，善于沟通，能够快速融入集体。"
   ],
   "experience":[
     {
-      "time":"2012-2013年",
-      "title":"先后在湖北武汉/十堰工作",
-      "intro":"其中包括1年的实习时间",
-      "description":"毕业于武汉软件工程职业技术学院。先后在武汉和老家湖北十堰工作一年。期间，主要精力用于钻研一个基于php的cms：drupal。与此同时，学会了drupal以及wordpress之类的cms的常用操作。"
+      "time":"2016.03-2016.10",
+      "title":"逛街网",
+      "intro":"实现网页布局，交互功能，数据处理",
+      "description":"PC端的购物网站，专业的韩国商品购物网站，提供热门的，优惠，大牌的韩国商品，包括化妆品、女装、内衣、箱包等等，解决韩粉们韩国代购可能遇到的各种问题。"
     },
     {
-      "time":"2014年",
-      "title":"上海传斐信息技术有限公司",
-      "intro":"前端开发",
-      "description":"14年年初，来到上海，就职于传斐科技信息有限公司。从事前端开发方面工作。期间，主要精力放在基础的js知识学习。同时也学习了一些产品设计的思维与技巧。"
+      "time":"2016.05-2016.07",
+      "title":"谭海智能—只能灯",
+      "intro":"实现网页布局，交互功能，动画效果",
+      "description":"该项目是wifi智能灯公司的官方网站，该网站具备响应式布局，使用animate动画库实现优美的动画效果。调用百度地图接口，实现地图定位功能。"
     },
     {
-      "time":"2015年-今",
-      "title":"云知声信息技术有限公司上海分舵",
-      "intro":"前端开发",
-      "description":"15年年初，加入北京云知声信息技术有限公司上海分舵。从事前端开发至今。期间，大部分精力都用户钻研前端的工程化。代码从css转到less，代码管理工具从svn转到git。学习了nodejs，熟悉了gulp。基于gulp做了很多前端自动化构建的工具。同时，也学习和使用了一些前端框架如：angular、vuejs等。"
+      "time":"2015.12- 016.03",
+      "title":"达达快递微信公众号",
+      "intro":"实现订单功能，预计邮费，查询快递订单等功能，使用php处理数据",
+      "description":"达达提供同城即时配送服务的平台。已经开通上海、北京、深圳等数个城市。1.该公众号提供快速下单，填写收货人信息，寄货人信息，提交，即有快递员上门取货。2.可选择快递类型预算运费。3 .可查询订单。"
     },
     {
-      "time":"自毕业后",
-      "title":"个人网站",
-      "intro":"全栈开发的学习与研究",
-      "description":"自毕业后一直创建与维护一个个人网站。在学nodejs之前，是基于drupal做的。自己独立开发的主题，广受欢迎。在学习了nodejs后，后端基于nodejs的express框架前端基于google的angularjs框架重做了一遍。全站为单页面应用。历时1年。同时也学会了mongodb的一些常规操作和配置。"
+      "time":"2015.04-2015.11",
+      "title":"珍品网（移动App）",
+      "intro":"实现网页布局，交互功能，数据处理",
+      "description":"珍品网（移动App）是一款移动端购物商城，专注国际顶级奢侈品牌的大型B2C电子商务网站,首创“时尚顾问服务”。商品涵盖LV、迪奥、古驰、爱马仕、天梭、浪琴、拉菲等。"
     }
   ],
   "skill":[
     {
-      "name":"Html",
+      "name":"Html5/CSS3",
       "percent":"80%"
-    },
-    {
-      "name":"Css",
-      "percent":"80%"
-    },
-    {
-      "name":"PhotoShop",
-      "percent":"70%"
     },
     {
       "name":"JavaScript",
       "percent":"70%"
     },
     {
-      "name":"Nodejs",
+      "name":"jQuery",
+      "percent":"70%"
+    },
+    {
+      "name":"Angular/React.js",
+      "percent":"60%"
+    },
+    {
+      "name":"PHP/Nodejs",
       "percent":"50%"
-    },
-    {
-      "name":"MongoDB",
-      "percent":"50%"
-    },
-    {
-      "name":"JSP",
-      "percent":"30%"
-    },
-    {
-      "name":"PHP",
-      "percent":"10%"
     }
   ],
   "usually":[
